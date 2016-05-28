@@ -11,3 +11,11 @@ body {
 h1 {
     color: #333;
 }
+
+h3 {
+    font-size: 24px;
+    height: 60px;
+    line-height: 60px;
+    background: #333;
+    color: #fff;
+}
